@@ -17,6 +17,10 @@
 - (void)viewDidLoad
 {
      NSLog(@"hello world");
+    NSLog(@"hello world");
+    NSLog(@"hello worl");
+    NSLog(@"hello ");
+    
 }
 
 
